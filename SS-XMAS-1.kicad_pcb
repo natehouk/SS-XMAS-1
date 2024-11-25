@@ -3603,7 +3603,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "06941b2c-ad00-4a70-99e5-671dee7bf5b9")
@@ -3877,7 +3877,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "5532e39f-8977-44c1-922d-525cdedddf48")
@@ -5402,7 +5402,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "87139140-fad9-4922-9b77-0bdacfbe20bd")
@@ -5665,7 +5665,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "f33c0e9b-13e2-4f49-bece-cce9bba8b5a3")
@@ -6036,7 +6036,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "4a64bee4-5d8f-4b71-b5b6-b3834b366ae0")
@@ -6299,7 +6299,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "4221d47a-f113-4200-a550-1a5ce90cbcc0")
@@ -6818,7 +6818,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "ef7d1bba-2c00-415d-80a6-271a40580f6f")
@@ -7092,7 +7092,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "55ca84e8-432b-45f9-be41-d73348c8b9ed")
@@ -7355,7 +7355,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "7c62b4a2-969b-406c-b425-34a88f8f66e2")
@@ -7944,7 +7944,7 @@
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ad9135c3-d054-4b3f-8b32-f3c8f990dc33")
+			(uuid "291c6661-0b8c-4a83-b129-55a98c3514ad")
 			(effects
 				(font
 					(size 1 1)
@@ -7956,7 +7956,7 @@
 			(at 0 4.2 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9d15209-7054-4364-a14c-82dd3ca73d4a")
+			(uuid "1b6dfa28-a575-46de-9da3-2d115d8f5ba1")
 			(effects
 				(font
 					(size 1 1)
@@ -8010,12 +8010,12 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "81786abc-8aaa-4e88-add5-125a672b69bf")
+			(uuid "ae7c100b-6887-400f-9016-953dec78cb03")
 		)
 		(fp_text user "MOUNT"
 			(at 0.3 0 0)
 			(layer "F.Fab")
-			(uuid "eed43ac9-204c-42fa-b2b7-bee3f1c03c2e")
+			(uuid "4788c767-6752-4e29-8b8b-ab1ec21d42bf")
 			(effects
 				(font
 					(size 1 1)
@@ -8028,7 +8028,7 @@
 			(size 7.4 3.2)
 			(drill oval 7.4 3.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "8f06bac4-537a-421b-9c24-8246a926faac")
+			(uuid "5ae81b87-be01-46fc-9786-157861ecfb0e")
 		)
 	)
 	(footprint "Seattle_Synths:LED_D3.0mm"
@@ -8524,7 +8524,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "8a5d2b38-b648-4352-8629-cc9f9490cdae")
@@ -9050,7 +9050,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "72b37ae7-0d0b-4638-9980-be8c222851d1")
@@ -12014,7 +12014,7 @@
 		(at 119.62 116.6 180)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
-		(property "Reference" "R17"
+		(property "Reference" "R330"
 			(at 5.08 -2.54 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -12544,7 +12544,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 75)
 			(layer "B.SilkS")
 			(uuid "63ed68c0-4e12-4506-b532-22d2f46c5f7a")
@@ -12739,7 +12739,7 @@
 		)
 		(fp_line
 			(start 10.16 0.000001)
-			(end 8.23 0)
+			(end 8.230001 0)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -12799,7 +12799,7 @@
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ad9135c3-d054-4b3f-8b32-f3c8f990dc33")
+			(uuid "3de2de06-55d2-47b4-8af8-fc541f8bb707")
 			(effects
 				(font
 					(size 1 1)
@@ -12811,7 +12811,7 @@
 			(at 0 4.2 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9d15209-7054-4364-a14c-82dd3ca73d4a")
+			(uuid "43ddbab7-1036-4a9b-873e-90eb8d4bd1d6")
 			(effects
 				(font
 					(size 1 1)
@@ -12865,12 +12865,12 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "81786abc-8aaa-4e88-add5-125a672b69bf")
+			(uuid "edacb160-dcad-4f60-8155-8dc5783b199f")
 		)
 		(fp_text user "MOUNT"
 			(at 0.3 0 0)
 			(layer "F.Fab")
-			(uuid "eed43ac9-204c-42fa-b2b7-bee3f1c03c2e")
+			(uuid "4131ab51-6e63-40a6-bab4-cd8264967249")
 			(effects
 				(font
 					(size 1 1)
@@ -12883,7 +12883,7 @@
 			(size 7.4 3.2)
 			(drill oval 7.4 3.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "8f06bac4-537a-421b-9c24-8246a926faac")
+			(uuid "f5d50154-649c-4adc-b949-4536f44ccc21")
 		)
 	)
 	(footprint "Seattle_Synths:LED_D5.0mm"
@@ -13125,7 +13125,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "17855490-fa0c-473c-8e98-4a7a376c05dd")
@@ -13632,7 +13632,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "c886995f-e24b-433f-9101-808d4c4c58f0")
@@ -14126,7 +14126,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "e2df6fba-a46e-4379-aeff-35fef47e9837")
@@ -14389,7 +14389,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 -90)
 			(layer "B.SilkS")
 			(uuid "bc1514f7-f01e-4543-8645-7aaa3085b903")
@@ -14894,7 +14894,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 -90)
 			(layer "B.SilkS")
 			(uuid "978c5c46-9407-4335-8901-0f5233b145f6")
@@ -15914,7 +15914,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "400d18e4-a3f9-4d7a-9173-c7d0163325dd")
@@ -16188,7 +16188,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "7980a8ae-6c35-40e9-b920-7c064e47f994")
@@ -16682,7 +16682,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 -90)
 			(layer "B.SilkS")
 			(uuid "6f0b96b7-0f34-4071-8e3e-182bb4052dae")
@@ -16956,7 +16956,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 -90)
 			(layer "B.SilkS")
 			(uuid "04a9bbe1-eb3f-4dc9-b8a7-7d187e166173")
@@ -17438,7 +17438,7 @@
 				)
 			)
 		)
-		(property "Value" "220K"
+		(property "Value" "330"
 			(at 5.08 0 0)
 			(layer "B.SilkS")
 			(uuid "024595c4-0ad9-416d-8795-af1d014668f3")
@@ -17704,7 +17704,7 @@
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ad9135c3-d054-4b3f-8b32-f3c8f990dc33")
+			(uuid "fc42fbac-4a77-4706-bb5a-6a266c43c7cc")
 			(effects
 				(font
 					(size 1 1)
@@ -17716,7 +17716,7 @@
 			(at 0 4.2 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9d15209-7054-4364-a14c-82dd3ca73d4a")
+			(uuid "77706429-4c76-48a3-98d0-1aacc9688464")
 			(effects
 				(font
 					(size 1 1)
@@ -17770,12 +17770,12 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "81786abc-8aaa-4e88-add5-125a672b69bf")
+			(uuid "fa30c9b2-6356-4e02-87ef-f8b3ecbc8f0f")
 		)
 		(fp_text user "MOUNT"
 			(at 0.3 0 0)
 			(layer "F.Fab")
-			(uuid "eed43ac9-204c-42fa-b2b7-bee3f1c03c2e")
+			(uuid "1e9caab1-ae56-4929-a085-836b6f7205b0")
 			(effects
 				(font
 					(size 1 1)
@@ -17788,7 +17788,7 @@
 			(size 7.4 3.2)
 			(drill oval 7.4 3.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "8f06bac4-537a-421b-9c24-8246a926faac")
+			(uuid "0d330d39-336b-4cf8-a560-c065ab0c7c2f")
 		)
 	)
 	(footprint "Seattle_Synths:LED_D3.0mm"
